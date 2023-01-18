@@ -1,3 +1,6 @@
+#Video Explanation Link:
+https://www.youtube.com/watch?v=TzKvUdmJut0&t=7s
+
 #Instructions
 To generate the visualization correctly, unzip the zip file into a project folder. 
 Next, open the command prompt into the project directory and create a local server via "python -m http.server 8080" for Python 3 users. 
@@ -6,5 +9,4 @@ To access more information about each player, simply hover your cursor over the 
 To view players in a different year, simply click the drop down box for years and select your year of choice from 1979-2017.
 To view players that averaged over a certain points per game in the specified year, enter your limit into the "PPG Minimum" field and click "Filter Data". 
 
-#Video Link
-https://www.youtube.com/watch?v=TzKvUdmJut0&t=7s
+
