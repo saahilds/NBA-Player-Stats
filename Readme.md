@@ -5,3 +5,6 @@ Once the server has been established, navigate to the address "localhost:8080" i
 To access more information about each player, simply hover your cursor over the point in the scatterplot and you will see more statistics appear to the right (or bottom) of the chart. 
 To view players in a different year, simply click the drop down box for years and select your year of choice from 1979-2017.
 To view players that averaged over a certain points per game in the specified year, enter your limit into the "PPG Minimum" field and click "Filter Data". 
+
+#Video Link
+https://www.youtube.com/watch?v=TzKvUdmJut0&t=7s
